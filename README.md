@@ -1,5 +1,4 @@
 # RNN_Stock_Price_Prediction
-# CNN Waste Segregation
 
 ## Table of Contents
 
